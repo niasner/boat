@@ -134,7 +134,7 @@ frame.Parent = screenGui
 
 local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, 0, 0, 30)
-title.Text = "🚢 Xeno 船航 (穿牆無敵版)"
+title.Text = "🚢 TAKO BOAT"
 title.TextColor3 = Color3.fromRGB(255, 255, 255)
 title.BackgroundColor3 = Color3.fromRGB(35, 35, 50)
 title.Font = Enum.Font.SourceSansBold
